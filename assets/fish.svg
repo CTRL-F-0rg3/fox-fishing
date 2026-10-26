@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="82" viewBox="0 0 110 82">
+  <defs>
+    <linearGradient id="body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5DADE2"/>
+      <stop offset="100%" stop-color="#1A5276"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2874A6"/>
+      <stop offset="100%" stop-color="#1A5276"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="55" cy="41" rx="42" ry="24" fill="url(#body)"/>
+  <polygon points="88,41 108,20 108,62" fill="url(#tail)"/>
+  <polygon points="88,41 105,30 105,52" fill="#2E86C1" opacity="0.7"/>
+  <polygon points="42,17 55,5 68,17" fill="#2874A6"/>
+  <polygon points="45,65 55,75 65,65" fill="#2874A6"/>
+  <circle cx="28" cy="37" r="7" fill="white"/>
+  <circle cx="28" cy="37" r="4" fill="#1A1A1A"/>
+  <circle cx="30" cy="35" r="1.5" fill="white"/>
+  <path d="M 45 30 Q 50 35 45 40" stroke="#1A5276" stroke-width="1" fill="none" opacity="0.5"/>
+  <path d="M 55 30 Q 60 35 55 40" stroke="#1A5276" stroke-width="1" fill="none" opacity="0.5"/>
+  <path d="M 65 30 Q 70 35 65 40" stroke="#1A5276" stroke-width="1" fill="none" opacity="0.5"/>
+</svg>
